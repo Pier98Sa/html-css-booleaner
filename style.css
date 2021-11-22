@@ -46,7 +46,12 @@ margin-top: 0%;
 ul{
 margin-top: 70px;
 }
+
+li{
+    line-height: 0px;
+}
 table{
+    margin-top: 75px;
     border-collapse: collapse;
     border-spacing: 0;
 }
@@ -69,3 +74,31 @@ td{
 section span{
     background-color: #ffff00;
 }
+.titolo-footer{
+    color: #808080;
+}
+
+footer img{
+    display: block;
+    padding-bottom: 15px;
+}
+.scritta-foto1{
+    margin: 0px;
+    padding-top: 10px;
+    padding-left: 8px;
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    width: 312px;
+    height: 208px;
+  }
+  .scritta-foto2{
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 8px;
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    width: 312px;
+    height: 208px;
+  }
