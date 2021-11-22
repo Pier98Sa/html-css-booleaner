@@ -46,3 +46,26 @@ margin-top: 0%;
 ul{
 margin-top: 70px;
 }
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+thead{
+    background-color:#00aeff;
+    border-color: #00aeff;
+    text-align: left;
+}
+thead th{
+    color:#fff;
+
+}
+td{
+    width: 30%;
+}
+.riga-azzurra{
+    background-color: #9ecbfc;
+}
+
+section span{
+    background-color: #ffff00;
+}
